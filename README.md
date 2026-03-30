@@ -15,7 +15,8 @@
 {baserCMS設置フォルダ}/plugins/
 になります。
 
-githubなどからzip形式でダウンロードして解凍した場合に ThemePortfolio-masterなどフォルダ名が ThemePortfolio になっていない場合はリネームしてから設置して下さい。
+https://github.com/kaburk/ThemePortfolio/releases からダウンロードするとOKですが、
+zip形式でダウンロードして解凍した場合に ThemePortfolio-mainなどフォルダ名が ThemePortfolio になっていない場合はリネームしてから設置して下さい。
 
 ## クレジット表記について
 
